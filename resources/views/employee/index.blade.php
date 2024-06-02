@@ -65,7 +65,7 @@
                       <tr>
                         <th scope="col" class="border border-dark">#</th>
                         <th scope="col" class="border border-dark">First Name</th>
-                        <th scope="col" class="border border-dark">Last Name</th>
+                        <th scope="col" class="border border-dark">Lst Name</th>
                         <th scope="col" class="border border-dark">DOB</th>
                         <th scope="col" class="border border-dark">Phone</th>
                         <th scope="col" class="border border-dark">Action</th>
