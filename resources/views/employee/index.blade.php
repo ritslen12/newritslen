@@ -24,14 +24,14 @@
                     @csrf
                     <div class="row">
                         <div class="col-md-6 mt-3">
-                            <label>FirstName</label>
+                            <label>First Name</label>
                             <input type="text" class="form-control" name="firstname" value="{{ old('firstname') }}" placeholder="Enter Firstname">
                             @if ($errors->has('firstname'))
                                 <ul class="text-danger mt-2"><li>{{ $errors->first('firstname') }}</li></ul>
                             @endif
                         </div>
                         <div class="col-md-6 mt-3">
-                            <label>LastName</label>
+                            <label>Last Name</label>
                             <input type="text" class="form-control" name="lastname" value="{{ old('lastname') }}" placeholder="Enter Lastname">
                             @if ($errors->has('firstname'))
                                 <ul class="text-danger mt-2"><li>{{ $errors->first('lastname') }}</li></ul>
@@ -64,8 +64,8 @@
                     <thead>
                       <tr>
                         <th scope="col" class="border border-dark">#</th>
-                        <th scope="col" class="border border-dark">Employee First Name</th>
-                        <th scope="col" class="border border-dark">Employee Last Name</th>
+                        <th scope="col" class="border border-dark">First Name</th>
+                        <th scope="col" class="border border-dark">Last Name</th>
                         <th scope="col" class="border border-dark">DOB</th>
                         <th scope="col" class="border border-dark">Phone</th>
                         <th scope="col" class="border border-dark">Action</th>
