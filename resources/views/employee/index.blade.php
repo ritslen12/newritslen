@@ -64,7 +64,7 @@
                     <thead>
                       <tr>
                         <th scope="col" class="border border-dark">#</th>
-                        <th scope="col" class="border border-dark">First Name</th>
+                        <th scope="col" class="border border-dark">FirstName</th>
                         <th scope="col" class="border border-dark">Last Name</th>
                         <th scope="col" class="border border-dark">Date Of Birth</th>
                         <th scope="col" class="border border-dark">Phone Number</th>
