@@ -46,7 +46,7 @@
 
                         </div>
                         <div class="col-md-6 mt-3">
-                            <label>Phone</label>
+                            <label>Phone Number</label>
                             <input type="text" class="form-control" name="phone" value="{{ old('phone') }}" placeholder="Enter Phone Number">
                             @if ($errors->has('firstname'))
                                 <ul class="text-danger mt-2"><li>{{ $errors->first('phone') }}</li></ul>
@@ -64,8 +64,8 @@
                     <thead>
                       <tr>
                         <th scope="col" class="border border-dark">#</th>
-                        <th scope="col" class="border border-dark">First Name</th>
-                        <th scope="col" class="border border-dark">Last Name</th>
+                        <th scope="col" class="border border-dark">FName</th>
+                        <th scope="col" class="border border-dark">LName</th>
                         <th scope="col" class="border border-dark">Date Of Birth</th>
                         <th scope="col" class="border border-dark">Phone number</th>
                         <th scope="col" class="border border-dark">Action</th>
