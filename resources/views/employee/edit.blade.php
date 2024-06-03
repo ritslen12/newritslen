@@ -1,4 +1,4 @@
-@extends('layouts.app')
+    @extends('layouts.app')
 
 @section('content')
 
@@ -14,6 +14,8 @@
                 <form method="POST" action="{{ route('employee.update', $employee->id) }}">
                 {!! csrf_field() !!}
                   @method("PATCH")
+
+                  <img src="{{ asset('img/rich.jpg') }}" alt="description of myimage">
                   
                     <div class="row mt-5">
                         <div class="col-md-6">
