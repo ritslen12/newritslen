@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Models\Rishane;
+use App\Models\RishaneController;
 use Laravel\Ui\Presets\React;
 use PDO;
 
