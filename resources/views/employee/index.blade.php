@@ -64,10 +64,10 @@
                     <thead>
                       <tr>
                         <th scope="col" class="border border-dark">#</th>
-                        <th scope="col" class="border border-dark">FName</th>
-                        <th scope="col" class="border border-dark">LName</th>
+                        <th scope="col" class="border border-dark">First Name</th>
+                        <th scope="col" class="border border-dark">Last Name</th>
                         <th scope="col" class="border border-dark">Date Of Birth</th>
-                        <th scope="col" class="border border-dark">Phone number</th>
+                        <th scope="col" class="border border-dark">Phone Number</th>
                         <th scope="col" class="border border-dark">Action</th>
                       </tr>
                     </thead>
