@@ -24,9 +24,9 @@
             <!-- small box -->
             <div class="small-box bg-info">
               <div class="inner">
-                <h3>BSIT_3A</h3>
+                <h3>1250</h3>
 
-                <p>Users</p>
+                <p>User</p>
               </div>
               <div class="icon">
                 <i class="ion ion-bag"></i>
