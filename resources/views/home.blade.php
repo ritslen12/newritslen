@@ -26,7 +26,7 @@
               <div class="inner">
                 <h3>1250</h3>
 
-                <p>Employees</p>
+                <p>Users</p>
               </div>
               <div class="icon">
                 <i class="ion ion-bag"></i>
