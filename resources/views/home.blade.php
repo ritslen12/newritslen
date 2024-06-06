@@ -24,7 +24,7 @@
             <!-- small box -->
             <div class="small-box bg-info">
               <div class="inner">
-                <h3>1250</h3>
+                <h3>BSIT_3A</h3>
 
                 <p>Users</p>
               </div>
