@@ -4,12 +4,12 @@
 
     <div class="container">
 
-        <h3 align="center" class="">Employee Management</h3>
+        <!-- <h3 align="center" class="">Employee Management</h3>
 
         <div class="row">
             <div class="col-md-2">
             </div>
-            <div class="col-md-8">
+            <div class="col-md-8"> -->
             <!--@if ($errors->any())
             <div>
                 <ul class="alert alert-danger">
