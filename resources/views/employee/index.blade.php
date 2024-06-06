@@ -19,7 +19,7 @@
                 </ul>
             </div>
             @endif -->
-            <div class="form-area mt-5">
+            <!-- <div class="form-area mt-5">
                 <form method="POST" action="{{ route('employee.store') }}">
                     @csrf
                     <div class="row">
@@ -57,7 +57,7 @@
                         </div>
                     </div>
                 </form>
-            </div>
+            </div> -->
 
             <h3 align="center" class="mt-5">Employee List</h3>
                 <table class="table mt-5 border">
