@@ -10,8 +10,8 @@
             <div class="col-md-2">
             </div>
             <div class="col-md-8">
-            <!--@if ($errors->any())
-            <div>
+            <!-- <!-- <!--@if ($errors->any())
+            <div> -->
                 <ul class="alert alert-danger">
                     @foreach ($errors->all() as $error)
                     <li>{{$error}}</li>
@@ -19,7 +19,7 @@
                 </ul>
             </div>
             @endif -->
-            <!-- <div class="form-area mt-5">
+            <div class="form-area mt-5">
                 <form method="POST" action="{{ route('employee.store') }}">
                     @csrf
                     <div class="row">
